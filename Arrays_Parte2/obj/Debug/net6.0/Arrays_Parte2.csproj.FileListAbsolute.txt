@@ -1,0 +1,15 @@
+/Users/kirutasu/Dave/CursoKiru/Arrays_Parte2/bin/Debug/net6.0/Arrays_Parte2
+/Users/kirutasu/Dave/CursoKiru/Arrays_Parte2/bin/Debug/net6.0/Arrays_Parte2.deps.json
+/Users/kirutasu/Dave/CursoKiru/Arrays_Parte2/bin/Debug/net6.0/Arrays_Parte2.runtimeconfig.json
+/Users/kirutasu/Dave/CursoKiru/Arrays_Parte2/bin/Debug/net6.0/Arrays_Parte2.dll
+/Users/kirutasu/Dave/CursoKiru/Arrays_Parte2/bin/Debug/net6.0/Arrays_Parte2.pdb
+/Users/kirutasu/Dave/CursoKiru/Arrays_Parte2/obj/Debug/net6.0/Arrays_Parte2.csproj.AssemblyReference.cache
+/Users/kirutasu/Dave/CursoKiru/Arrays_Parte2/obj/Debug/net6.0/Arrays_Parte2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirutasu/Dave/CursoKiru/Arrays_Parte2/obj/Debug/net6.0/Arrays_Parte2.AssemblyInfoInputs.cache
+/Users/kirutasu/Dave/CursoKiru/Arrays_Parte2/obj/Debug/net6.0/Arrays_Parte2.AssemblyInfo.cs
+/Users/kirutasu/Dave/CursoKiru/Arrays_Parte2/obj/Debug/net6.0/Arrays_Parte2.csproj.CoreCompileInputs.cache
+/Users/kirutasu/Dave/CursoKiru/Arrays_Parte2/obj/Debug/net6.0/Arrays_Parte2.dll
+/Users/kirutasu/Dave/CursoKiru/Arrays_Parte2/obj/Debug/net6.0/refint/Arrays_Parte2.dll
+/Users/kirutasu/Dave/CursoKiru/Arrays_Parte2/obj/Debug/net6.0/Arrays_Parte2.pdb
+/Users/kirutasu/Dave/CursoKiru/Arrays_Parte2/obj/Debug/net6.0/Arrays_Parte2.genruntimeconfig.cache
+/Users/kirutasu/Dave/CursoKiru/Arrays_Parte2/obj/Debug/net6.0/ref/Arrays_Parte2.dll

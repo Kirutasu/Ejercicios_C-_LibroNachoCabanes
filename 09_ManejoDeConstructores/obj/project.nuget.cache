@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "CifmEDgx/1ztVcBQ/m0n6G8Yuez7rfVyZR4eMsuyCEsFF8nSBVga9hUxwn0nsebSbwf46y1qlFr+90rN3Uxvrw==",
+  "success": true,
+  "projectFilePath": "/Users/kirutasu/Dave/Curso Kiru/09_ManejoDeConstructores/09_ManejoDeConstructores.csproj",
+  "expectedPackageFiles": [
+    "/Users/kirutasu/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/kirutasu/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.31/microsoft.netcore.app.host.osx-arm64.6.0.31.nupkg.sha512",
+    "/Users/kirutasu/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+/Users/kirutasu/Dave/CursoKiru/11_4.1.3.7_Generar_Lista_de_X_nombres/bin/Debug/net6.0/11_4.1.3.7_Generar_Lista_de_X_nombres
+/Users/kirutasu/Dave/CursoKiru/11_4.1.3.7_Generar_Lista_de_X_nombres/bin/Debug/net6.0/11_4.1.3.7_Generar_Lista_de_X_nombres.deps.json
+/Users/kirutasu/Dave/CursoKiru/11_4.1.3.7_Generar_Lista_de_X_nombres/bin/Debug/net6.0/11_4.1.3.7_Generar_Lista_de_X_nombres.runtimeconfig.json
+/Users/kirutasu/Dave/CursoKiru/11_4.1.3.7_Generar_Lista_de_X_nombres/bin/Debug/net6.0/11_4.1.3.7_Generar_Lista_de_X_nombres.dll
+/Users/kirutasu/Dave/CursoKiru/11_4.1.3.7_Generar_Lista_de_X_nombres/bin/Debug/net6.0/11_4.1.3.7_Generar_Lista_de_X_nombres.pdb
+/Users/kirutasu/Dave/CursoKiru/11_4.1.3.7_Generar_Lista_de_X_nombres/obj/Debug/net6.0/11_4.1.3.7_Generar_Lista_de_X_nombres.csproj.AssemblyReference.cache
+/Users/kirutasu/Dave/CursoKiru/11_4.1.3.7_Generar_Lista_de_X_nombres/obj/Debug/net6.0/11_4.1.3.7_Generar_Lista_de_X_nombres.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirutasu/Dave/CursoKiru/11_4.1.3.7_Generar_Lista_de_X_nombres/obj/Debug/net6.0/11_4.1.3.7_Generar_Lista_de_X_nombres.AssemblyInfoInputs.cache
+/Users/kirutasu/Dave/CursoKiru/11_4.1.3.7_Generar_Lista_de_X_nombres/obj/Debug/net6.0/11_4.1.3.7_Generar_Lista_de_X_nombres.AssemblyInfo.cs
+/Users/kirutasu/Dave/CursoKiru/11_4.1.3.7_Generar_Lista_de_X_nombres/obj/Debug/net6.0/11_4.1.3.7_Generar_Lista_de_X_nombres.csproj.CoreCompileInputs.cache
+/Users/kirutasu/Dave/CursoKiru/11_4.1.3.7_Generar_Lista_de_X_nombres/obj/Debug/net6.0/11_4.1.3.7_Generar_Lista_de_X_nombres.dll
+/Users/kirutasu/Dave/CursoKiru/11_4.1.3.7_Generar_Lista_de_X_nombres/obj/Debug/net6.0/refint/11_4.1.3.7_Generar_Lista_de_X_nombres.dll
+/Users/kirutasu/Dave/CursoKiru/11_4.1.3.7_Generar_Lista_de_X_nombres/obj/Debug/net6.0/11_4.1.3.7_Generar_Lista_de_X_nombres.pdb
+/Users/kirutasu/Dave/CursoKiru/11_4.1.3.7_Generar_Lista_de_X_nombres/obj/Debug/net6.0/11_4.1.3.7_Generar_Lista_de_X_nombres.genruntimeconfig.cache
+/Users/kirutasu/Dave/CursoKiru/11_4.1.3.7_Generar_Lista_de_X_nombres/obj/Debug/net6.0/ref/11_4.1.3.7_Generar_Lista_de_X_nombres.dll

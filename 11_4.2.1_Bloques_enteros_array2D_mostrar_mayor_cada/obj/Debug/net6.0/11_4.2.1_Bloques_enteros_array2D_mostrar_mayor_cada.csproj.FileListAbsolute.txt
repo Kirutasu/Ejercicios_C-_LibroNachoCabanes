@@ -1,0 +1,15 @@
+/Users/kirutasu/Dave/CursoKiru/11_4.2.1_Bloques_enteros_array2D_mostrar_mayor_cada/bin/Debug/net6.0/11_4.2.1_Bloques_enteros_array2D_mostrar_mayor_cada
+/Users/kirutasu/Dave/CursoKiru/11_4.2.1_Bloques_enteros_array2D_mostrar_mayor_cada/bin/Debug/net6.0/11_4.2.1_Bloques_enteros_array2D_mostrar_mayor_cada.deps.json
+/Users/kirutasu/Dave/CursoKiru/11_4.2.1_Bloques_enteros_array2D_mostrar_mayor_cada/bin/Debug/net6.0/11_4.2.1_Bloques_enteros_array2D_mostrar_mayor_cada.runtimeconfig.json
+/Users/kirutasu/Dave/CursoKiru/11_4.2.1_Bloques_enteros_array2D_mostrar_mayor_cada/bin/Debug/net6.0/11_4.2.1_Bloques_enteros_array2D_mostrar_mayor_cada.dll
+/Users/kirutasu/Dave/CursoKiru/11_4.2.1_Bloques_enteros_array2D_mostrar_mayor_cada/bin/Debug/net6.0/11_4.2.1_Bloques_enteros_array2D_mostrar_mayor_cada.pdb
+/Users/kirutasu/Dave/CursoKiru/11_4.2.1_Bloques_enteros_array2D_mostrar_mayor_cada/obj/Debug/net6.0/11_4.2.1_Bloques_enteros_array2D_mostrar_mayor_cada.csproj.AssemblyReference.cache
+/Users/kirutasu/Dave/CursoKiru/11_4.2.1_Bloques_enteros_array2D_mostrar_mayor_cada/obj/Debug/net6.0/11_4.2.1_Bloques_enteros_array2D_mostrar_mayor_cada.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirutasu/Dave/CursoKiru/11_4.2.1_Bloques_enteros_array2D_mostrar_mayor_cada/obj/Debug/net6.0/11_4.2.1_Bloques_enteros_array2D_mostrar_mayor_cada.AssemblyInfoInputs.cache
+/Users/kirutasu/Dave/CursoKiru/11_4.2.1_Bloques_enteros_array2D_mostrar_mayor_cada/obj/Debug/net6.0/11_4.2.1_Bloques_enteros_array2D_mostrar_mayor_cada.AssemblyInfo.cs
+/Users/kirutasu/Dave/CursoKiru/11_4.2.1_Bloques_enteros_array2D_mostrar_mayor_cada/obj/Debug/net6.0/11_4.2.1_Bloques_enteros_array2D_mostrar_mayor_cada.csproj.CoreCompileInputs.cache
+/Users/kirutasu/Dave/CursoKiru/11_4.2.1_Bloques_enteros_array2D_mostrar_mayor_cada/obj/Debug/net6.0/11_4.2.1_Bloques_enteros_array2D_mostrar_mayor_cada.dll
+/Users/kirutasu/Dave/CursoKiru/11_4.2.1_Bloques_enteros_array2D_mostrar_mayor_cada/obj/Debug/net6.0/refint/11_4.2.1_Bloques_enteros_array2D_mostrar_mayor_cada.dll
+/Users/kirutasu/Dave/CursoKiru/11_4.2.1_Bloques_enteros_array2D_mostrar_mayor_cada/obj/Debug/net6.0/11_4.2.1_Bloques_enteros_array2D_mostrar_mayor_cada.pdb
+/Users/kirutasu/Dave/CursoKiru/11_4.2.1_Bloques_enteros_array2D_mostrar_mayor_cada/obj/Debug/net6.0/11_4.2.1_Bloques_enteros_array2D_mostrar_mayor_cada.genruntimeconfig.cache
+/Users/kirutasu/Dave/CursoKiru/11_4.2.1_Bloques_enteros_array2D_mostrar_mayor_cada/obj/Debug/net6.0/ref/11_4.2.1_Bloques_enteros_array2D_mostrar_mayor_cada.dll

@@ -1,0 +1,15 @@
+/Users/kirutasu/Dave/CursoKiru/ManejoDeStrings/obj/Debug/net6.0/ManejoDeStrings.csproj.AssemblyReference.cache
+/Users/kirutasu/Dave/CursoKiru/ManejoDeStrings/obj/Debug/net6.0/ManejoDeStrings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirutasu/Dave/CursoKiru/ManejoDeStrings/obj/Debug/net6.0/ManejoDeStrings.AssemblyInfoInputs.cache
+/Users/kirutasu/Dave/CursoKiru/ManejoDeStrings/obj/Debug/net6.0/ManejoDeStrings.AssemblyInfo.cs
+/Users/kirutasu/Dave/CursoKiru/ManejoDeStrings/obj/Debug/net6.0/ManejoDeStrings.csproj.CoreCompileInputs.cache
+/Users/kirutasu/Dave/CursoKiru/ManejoDeStrings/bin/Debug/net6.0/ManejoDeStrings
+/Users/kirutasu/Dave/CursoKiru/ManejoDeStrings/bin/Debug/net6.0/ManejoDeStrings.deps.json
+/Users/kirutasu/Dave/CursoKiru/ManejoDeStrings/bin/Debug/net6.0/ManejoDeStrings.runtimeconfig.json
+/Users/kirutasu/Dave/CursoKiru/ManejoDeStrings/bin/Debug/net6.0/ManejoDeStrings.dll
+/Users/kirutasu/Dave/CursoKiru/ManejoDeStrings/bin/Debug/net6.0/ManejoDeStrings.pdb
+/Users/kirutasu/Dave/CursoKiru/ManejoDeStrings/obj/Debug/net6.0/ManejoDeStrings.dll
+/Users/kirutasu/Dave/CursoKiru/ManejoDeStrings/obj/Debug/net6.0/refint/ManejoDeStrings.dll
+/Users/kirutasu/Dave/CursoKiru/ManejoDeStrings/obj/Debug/net6.0/ManejoDeStrings.pdb
+/Users/kirutasu/Dave/CursoKiru/ManejoDeStrings/obj/Debug/net6.0/ManejoDeStrings.genruntimeconfig.cache
+/Users/kirutasu/Dave/CursoKiru/ManejoDeStrings/obj/Debug/net6.0/ref/ManejoDeStrings.dll

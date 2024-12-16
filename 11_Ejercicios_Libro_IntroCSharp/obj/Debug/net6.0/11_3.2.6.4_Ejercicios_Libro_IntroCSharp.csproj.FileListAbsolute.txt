@@ -1,0 +1,15 @@
+/Users/kirutasu/Dave/CursoKiru/11_Ejercicios_Libro_IntroCSharp/bin/Debug/net6.0/11_3.2.6.4_Ejercicios_Libro_IntroCSharp
+/Users/kirutasu/Dave/CursoKiru/11_Ejercicios_Libro_IntroCSharp/bin/Debug/net6.0/11_3.2.6.4_Ejercicios_Libro_IntroCSharp.deps.json
+/Users/kirutasu/Dave/CursoKiru/11_Ejercicios_Libro_IntroCSharp/bin/Debug/net6.0/11_3.2.6.4_Ejercicios_Libro_IntroCSharp.runtimeconfig.json
+/Users/kirutasu/Dave/CursoKiru/11_Ejercicios_Libro_IntroCSharp/bin/Debug/net6.0/11_3.2.6.4_Ejercicios_Libro_IntroCSharp.dll
+/Users/kirutasu/Dave/CursoKiru/11_Ejercicios_Libro_IntroCSharp/bin/Debug/net6.0/11_3.2.6.4_Ejercicios_Libro_IntroCSharp.pdb
+/Users/kirutasu/Dave/CursoKiru/11_Ejercicios_Libro_IntroCSharp/obj/Debug/net6.0/11_3.2.6.4_Ejercicios_Libro_IntroCSharp.csproj.AssemblyReference.cache
+/Users/kirutasu/Dave/CursoKiru/11_Ejercicios_Libro_IntroCSharp/obj/Debug/net6.0/11_3.2.6.4_Ejercicios_Libro_IntroCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirutasu/Dave/CursoKiru/11_Ejercicios_Libro_IntroCSharp/obj/Debug/net6.0/11_3.2.6.4_Ejercicios_Libro_IntroCSharp.AssemblyInfoInputs.cache
+/Users/kirutasu/Dave/CursoKiru/11_Ejercicios_Libro_IntroCSharp/obj/Debug/net6.0/11_3.2.6.4_Ejercicios_Libro_IntroCSharp.AssemblyInfo.cs
+/Users/kirutasu/Dave/CursoKiru/11_Ejercicios_Libro_IntroCSharp/obj/Debug/net6.0/11_3.2.6.4_Ejercicios_Libro_IntroCSharp.csproj.CoreCompileInputs.cache
+/Users/kirutasu/Dave/CursoKiru/11_Ejercicios_Libro_IntroCSharp/obj/Debug/net6.0/11_3.2.6.4_Ejercicios_Libro_IntroCSharp.dll
+/Users/kirutasu/Dave/CursoKiru/11_Ejercicios_Libro_IntroCSharp/obj/Debug/net6.0/refint/11_3.2.6.4_Ejercicios_Libro_IntroCSharp.dll
+/Users/kirutasu/Dave/CursoKiru/11_Ejercicios_Libro_IntroCSharp/obj/Debug/net6.0/11_3.2.6.4_Ejercicios_Libro_IntroCSharp.pdb
+/Users/kirutasu/Dave/CursoKiru/11_Ejercicios_Libro_IntroCSharp/obj/Debug/net6.0/11_3.2.6.4_Ejercicios_Libro_IntroCSharp.genruntimeconfig.cache
+/Users/kirutasu/Dave/CursoKiru/11_Ejercicios_Libro_IntroCSharp/obj/Debug/net6.0/ref/11_3.2.6.4_Ejercicios_Libro_IntroCSharp.dll

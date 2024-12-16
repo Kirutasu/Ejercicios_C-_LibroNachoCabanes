@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "AB+yN1LKWhyQqaiHXvVq5Uvel3Yp4WT0cu5DEOg+q8qjHPVoH+zKcXoYd2SlmgAM6B5jnXBWlkJa/M/4Lo38/Q==",
+  "success": true,
+  "projectFilePath": "/Users/kirutasu/Dave/Curso Kiru/11_3.5.1_Ejercicios_Libro_IntroCSharp/11_3.5.1_Ejercicios_Libro_IntroCSharp.csproj",
+  "expectedPackageFiles": [
+    "/Users/kirutasu/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/kirutasu/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.31/microsoft.netcore.app.host.osx-arm64.6.0.31.nupkg.sha512",
+    "/Users/kirutasu/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}

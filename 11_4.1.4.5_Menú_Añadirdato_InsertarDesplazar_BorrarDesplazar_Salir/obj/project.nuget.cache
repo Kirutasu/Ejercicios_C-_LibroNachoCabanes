@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "mN81B5CMPc/LlHPfsv1h1YuPCxJTkGWwt2JXcFy/6bHjN2hmSAKoZDggiXLgW3Xei+noTo7Uf/ihRS0gXqaM6w==",
+  "success": true,
+  "projectFilePath": "/Users/kirutasu/Dave/Curso Kiru/11_4.1.4.5_Menú_Añadirdato_InsertarDesplazar_BorrarDesplazar_Salir/11_4.1.4.5_Menú_Añadirdato_InsertarDesplazar_BorrarDesplazar_Salir.csproj",
+  "expectedPackageFiles": [
+    "/Users/kirutasu/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/kirutasu/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.31/microsoft.netcore.app.host.osx-arm64.6.0.31.nupkg.sha512",
+    "/Users/kirutasu/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}

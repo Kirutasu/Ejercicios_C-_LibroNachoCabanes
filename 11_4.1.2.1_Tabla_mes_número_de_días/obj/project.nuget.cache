@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "oFNlIZpFEM+mRU1xctaXG3iOsB1exCxD0f+ZjpbdMFevVgmOdc8dE14T8MAaHxu8I87V3wsIf0xcpc8qOlE2Jg==",
+  "success": true,
+  "projectFilePath": "/Users/kirutasu/Dave/Curso Kiru/11_4.1.2.1_Tabla_mes_número_de_días/11_4.1.2.1_Tabla_mes_número_de_días.csproj",
+  "expectedPackageFiles": [
+    "/Users/kirutasu/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/kirutasu/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.31/microsoft.netcore.app.host.osx-arm64.6.0.31.nupkg.sha512",
+    "/Users/kirutasu/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}

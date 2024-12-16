@@ -1,0 +1,5 @@
+/Users/kirutasu/Dave/CursoKiru/000_Apuntes_LibroIntroCSharp/obj/Debug/net6.0/000_Apuntes_LibroIntroCSharp.csproj.AssemblyReference.cache
+/Users/kirutasu/Dave/CursoKiru/000_Apuntes_LibroIntroCSharp/obj/Debug/net6.0/000_Apuntes_LibroIntroCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirutasu/Dave/CursoKiru/000_Apuntes_LibroIntroCSharp/obj/Debug/net6.0/000_Apuntes_LibroIntroCSharp.AssemblyInfoInputs.cache
+/Users/kirutasu/Dave/CursoKiru/000_Apuntes_LibroIntroCSharp/obj/Debug/net6.0/000_Apuntes_LibroIntroCSharp.AssemblyInfo.cs
+/Users/kirutasu/Dave/CursoKiru/000_Apuntes_LibroIntroCSharp/obj/Debug/net6.0/000_Apuntes_LibroIntroCSharp.csproj.CoreCompileInputs.cache

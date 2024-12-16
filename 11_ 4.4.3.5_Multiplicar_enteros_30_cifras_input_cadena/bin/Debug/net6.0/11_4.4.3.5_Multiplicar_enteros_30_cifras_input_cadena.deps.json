@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "11_4.4.3.5_Multiplicar_enteros_30_cifras_input_cadena/1.0.0": {
+        "runtime": {
+          "11_4.4.3.5_Multiplicar_enteros_30_cifras_input_cadena.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "11_4.4.3.5_Multiplicar_enteros_30_cifras_input_cadena/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

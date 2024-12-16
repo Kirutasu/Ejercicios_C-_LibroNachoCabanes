@@ -1,0 +1,5 @@
+/Users/kirutasu/Dave/CursoKiru/Arrays/obj/Debug/net6.0/01_Arrays.csproj.AssemblyReference.cache
+/Users/kirutasu/Dave/CursoKiru/Arrays/obj/Debug/net6.0/01_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirutasu/Dave/CursoKiru/Arrays/obj/Debug/net6.0/01_Arrays.AssemblyInfoInputs.cache
+/Users/kirutasu/Dave/CursoKiru/Arrays/obj/Debug/net6.0/01_Arrays.AssemblyInfo.cs
+/Users/kirutasu/Dave/CursoKiru/Arrays/obj/Debug/net6.0/01_Arrays.csproj.CoreCompileInputs.cache

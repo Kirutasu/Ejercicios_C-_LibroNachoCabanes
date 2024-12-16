@@ -1,0 +1,15 @@
+/Users/kirutasu/Dave/CursoKiru/11_4.1.1.1_Array_media_aritmética_y_datos/bin/Debug/net6.0/11_4.1.1.1_Array_media_aritmética_y_datos
+/Users/kirutasu/Dave/CursoKiru/11_4.1.1.1_Array_media_aritmética_y_datos/bin/Debug/net6.0/11_4.1.1.1_Array_media_aritmética_y_datos.deps.json
+/Users/kirutasu/Dave/CursoKiru/11_4.1.1.1_Array_media_aritmética_y_datos/bin/Debug/net6.0/11_4.1.1.1_Array_media_aritmética_y_datos.runtimeconfig.json
+/Users/kirutasu/Dave/CursoKiru/11_4.1.1.1_Array_media_aritmética_y_datos/bin/Debug/net6.0/11_4.1.1.1_Array_media_aritmética_y_datos.dll
+/Users/kirutasu/Dave/CursoKiru/11_4.1.1.1_Array_media_aritmética_y_datos/bin/Debug/net6.0/11_4.1.1.1_Array_media_aritmética_y_datos.pdb
+/Users/kirutasu/Dave/CursoKiru/11_4.1.1.1_Array_media_aritmética_y_datos/obj/Debug/net6.0/11_4.1.1.1_Array_media_aritmética_y_datos.csproj.AssemblyReference.cache
+/Users/kirutasu/Dave/CursoKiru/11_4.1.1.1_Array_media_aritmética_y_datos/obj/Debug/net6.0/11_4.1.1.1_Array_media_aritmética_y_datos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirutasu/Dave/CursoKiru/11_4.1.1.1_Array_media_aritmética_y_datos/obj/Debug/net6.0/11_4.1.1.1_Array_media_aritmética_y_datos.AssemblyInfoInputs.cache
+/Users/kirutasu/Dave/CursoKiru/11_4.1.1.1_Array_media_aritmética_y_datos/obj/Debug/net6.0/11_4.1.1.1_Array_media_aritmética_y_datos.AssemblyInfo.cs
+/Users/kirutasu/Dave/CursoKiru/11_4.1.1.1_Array_media_aritmética_y_datos/obj/Debug/net6.0/11_4.1.1.1_Array_media_aritmética_y_datos.csproj.CoreCompileInputs.cache
+/Users/kirutasu/Dave/CursoKiru/11_4.1.1.1_Array_media_aritmética_y_datos/obj/Debug/net6.0/11_4.1.1.1_Array_media_aritmética_y_datos.dll
+/Users/kirutasu/Dave/CursoKiru/11_4.1.1.1_Array_media_aritmética_y_datos/obj/Debug/net6.0/refint/11_4.1.1.1_Array_media_aritmética_y_datos.dll
+/Users/kirutasu/Dave/CursoKiru/11_4.1.1.1_Array_media_aritmética_y_datos/obj/Debug/net6.0/11_4.1.1.1_Array_media_aritmética_y_datos.pdb
+/Users/kirutasu/Dave/CursoKiru/11_4.1.1.1_Array_media_aritmética_y_datos/obj/Debug/net6.0/11_4.1.1.1_Array_media_aritmética_y_datos.genruntimeconfig.cache
+/Users/kirutasu/Dave/CursoKiru/11_4.1.1.1_Array_media_aritmética_y_datos/obj/Debug/net6.0/ref/11_4.1.1.1_Array_media_aritmética_y_datos.dll

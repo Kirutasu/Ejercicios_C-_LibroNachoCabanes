@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "2TIRP7ua4+Xl+zLww9fiJYLCnYVVarp3TlUjAqowkJa+Ei2wvBG08I0ADa0clLPOwX6d56BB1aV4bNNy2Wi6OQ==",
+  "success": true,
+  "projectFilePath": "/Users/kirutasu/Dave/Curso Kiru/11_4.1.1.2_Array_float_orden_inverso/11_4.1.1.2_Array_float_orden_inverso.csproj",
+  "expectedPackageFiles": [
+    "/Users/kirutasu/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/kirutasu/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.31/microsoft.netcore.app.host.osx-arm64.6.0.31.nupkg.sha512",
+    "/Users/kirutasu/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}

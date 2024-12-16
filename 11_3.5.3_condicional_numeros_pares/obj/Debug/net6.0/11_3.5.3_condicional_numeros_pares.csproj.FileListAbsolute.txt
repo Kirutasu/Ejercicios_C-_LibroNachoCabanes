@@ -1,0 +1,15 @@
+/Users/kirutasu/Dave/CursoKiru/11_3.5.3_condicional_numeros_pares/bin/Debug/net6.0/11_3.5.3_condicional_numeros_pares
+/Users/kirutasu/Dave/CursoKiru/11_3.5.3_condicional_numeros_pares/bin/Debug/net6.0/11_3.5.3_condicional_numeros_pares.deps.json
+/Users/kirutasu/Dave/CursoKiru/11_3.5.3_condicional_numeros_pares/bin/Debug/net6.0/11_3.5.3_condicional_numeros_pares.runtimeconfig.json
+/Users/kirutasu/Dave/CursoKiru/11_3.5.3_condicional_numeros_pares/bin/Debug/net6.0/11_3.5.3_condicional_numeros_pares.dll
+/Users/kirutasu/Dave/CursoKiru/11_3.5.3_condicional_numeros_pares/bin/Debug/net6.0/11_3.5.3_condicional_numeros_pares.pdb
+/Users/kirutasu/Dave/CursoKiru/11_3.5.3_condicional_numeros_pares/obj/Debug/net6.0/11_3.5.3_condicional_numeros_pares.csproj.AssemblyReference.cache
+/Users/kirutasu/Dave/CursoKiru/11_3.5.3_condicional_numeros_pares/obj/Debug/net6.0/11_3.5.3_condicional_numeros_pares.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirutasu/Dave/CursoKiru/11_3.5.3_condicional_numeros_pares/obj/Debug/net6.0/11_3.5.3_condicional_numeros_pares.AssemblyInfoInputs.cache
+/Users/kirutasu/Dave/CursoKiru/11_3.5.3_condicional_numeros_pares/obj/Debug/net6.0/11_3.5.3_condicional_numeros_pares.AssemblyInfo.cs
+/Users/kirutasu/Dave/CursoKiru/11_3.5.3_condicional_numeros_pares/obj/Debug/net6.0/11_3.5.3_condicional_numeros_pares.csproj.CoreCompileInputs.cache
+/Users/kirutasu/Dave/CursoKiru/11_3.5.3_condicional_numeros_pares/obj/Debug/net6.0/11_3.5.3_condicional_numeros_pares.dll
+/Users/kirutasu/Dave/CursoKiru/11_3.5.3_condicional_numeros_pares/obj/Debug/net6.0/refint/11_3.5.3_condicional_numeros_pares.dll
+/Users/kirutasu/Dave/CursoKiru/11_3.5.3_condicional_numeros_pares/obj/Debug/net6.0/11_3.5.3_condicional_numeros_pares.pdb
+/Users/kirutasu/Dave/CursoKiru/11_3.5.3_condicional_numeros_pares/obj/Debug/net6.0/11_3.5.3_condicional_numeros_pares.genruntimeconfig.cache
+/Users/kirutasu/Dave/CursoKiru/11_3.5.3_condicional_numeros_pares/obj/Debug/net6.0/ref/11_3.5.3_condicional_numeros_pares.dll

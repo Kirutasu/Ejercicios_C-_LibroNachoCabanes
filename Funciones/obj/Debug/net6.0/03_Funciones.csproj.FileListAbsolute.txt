@@ -1,0 +1,15 @@
+/Users/kirutasu/Dave/CursoKiru/Funciones/bin/Debug/net6.0/03_Funciones
+/Users/kirutasu/Dave/CursoKiru/Funciones/bin/Debug/net6.0/03_Funciones.deps.json
+/Users/kirutasu/Dave/CursoKiru/Funciones/bin/Debug/net6.0/03_Funciones.runtimeconfig.json
+/Users/kirutasu/Dave/CursoKiru/Funciones/bin/Debug/net6.0/03_Funciones.dll
+/Users/kirutasu/Dave/CursoKiru/Funciones/bin/Debug/net6.0/03_Funciones.pdb
+/Users/kirutasu/Dave/CursoKiru/Funciones/obj/Debug/net6.0/03_Funciones.csproj.AssemblyReference.cache
+/Users/kirutasu/Dave/CursoKiru/Funciones/obj/Debug/net6.0/03_Funciones.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirutasu/Dave/CursoKiru/Funciones/obj/Debug/net6.0/03_Funciones.AssemblyInfoInputs.cache
+/Users/kirutasu/Dave/CursoKiru/Funciones/obj/Debug/net6.0/03_Funciones.AssemblyInfo.cs
+/Users/kirutasu/Dave/CursoKiru/Funciones/obj/Debug/net6.0/03_Funciones.csproj.CoreCompileInputs.cache
+/Users/kirutasu/Dave/CursoKiru/Funciones/obj/Debug/net6.0/03_Funciones.dll
+/Users/kirutasu/Dave/CursoKiru/Funciones/obj/Debug/net6.0/refint/03_Funciones.dll
+/Users/kirutasu/Dave/CursoKiru/Funciones/obj/Debug/net6.0/03_Funciones.pdb
+/Users/kirutasu/Dave/CursoKiru/Funciones/obj/Debug/net6.0/03_Funciones.genruntimeconfig.cache
+/Users/kirutasu/Dave/CursoKiru/Funciones/obj/Debug/net6.0/ref/03_Funciones.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "11_4.1.1.1_Array_media_aritmética_y_datos/1.0.0": {
+        "runtime": {
+          "11_4.1.1.1_Array_media_aritmética_y_datos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "11_4.1.1.1_Array_media_aritmética_y_datos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

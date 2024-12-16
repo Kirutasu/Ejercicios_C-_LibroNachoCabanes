@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "11_4.2.1_Bloques_enteros_array2D_mostrar_mayor_cada/1.0.0": {
+        "runtime": {
+          "11_4.2.1_Bloques_enteros_array2D_mostrar_mayor_cada.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "11_4.2.1_Bloques_enteros_array2D_mostrar_mayor_cada/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

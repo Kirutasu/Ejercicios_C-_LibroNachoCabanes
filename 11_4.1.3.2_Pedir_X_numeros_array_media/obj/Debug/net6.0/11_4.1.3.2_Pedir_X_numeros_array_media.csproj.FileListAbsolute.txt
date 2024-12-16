@@ -1,0 +1,15 @@
+/Users/kirutasu/Dave/CursoKiru/11_4.1.3.2_Pedir_X_numeros_array_media/bin/Debug/net6.0/11_4.1.3.2_Pedir_X_numeros_array_media
+/Users/kirutasu/Dave/CursoKiru/11_4.1.3.2_Pedir_X_numeros_array_media/bin/Debug/net6.0/11_4.1.3.2_Pedir_X_numeros_array_media.deps.json
+/Users/kirutasu/Dave/CursoKiru/11_4.1.3.2_Pedir_X_numeros_array_media/bin/Debug/net6.0/11_4.1.3.2_Pedir_X_numeros_array_media.runtimeconfig.json
+/Users/kirutasu/Dave/CursoKiru/11_4.1.3.2_Pedir_X_numeros_array_media/bin/Debug/net6.0/11_4.1.3.2_Pedir_X_numeros_array_media.dll
+/Users/kirutasu/Dave/CursoKiru/11_4.1.3.2_Pedir_X_numeros_array_media/bin/Debug/net6.0/11_4.1.3.2_Pedir_X_numeros_array_media.pdb
+/Users/kirutasu/Dave/CursoKiru/11_4.1.3.2_Pedir_X_numeros_array_media/obj/Debug/net6.0/11_4.1.3.2_Pedir_X_numeros_array_media.csproj.AssemblyReference.cache
+/Users/kirutasu/Dave/CursoKiru/11_4.1.3.2_Pedir_X_numeros_array_media/obj/Debug/net6.0/11_4.1.3.2_Pedir_X_numeros_array_media.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirutasu/Dave/CursoKiru/11_4.1.3.2_Pedir_X_numeros_array_media/obj/Debug/net6.0/11_4.1.3.2_Pedir_X_numeros_array_media.AssemblyInfoInputs.cache
+/Users/kirutasu/Dave/CursoKiru/11_4.1.3.2_Pedir_X_numeros_array_media/obj/Debug/net6.0/11_4.1.3.2_Pedir_X_numeros_array_media.AssemblyInfo.cs
+/Users/kirutasu/Dave/CursoKiru/11_4.1.3.2_Pedir_X_numeros_array_media/obj/Debug/net6.0/11_4.1.3.2_Pedir_X_numeros_array_media.csproj.CoreCompileInputs.cache
+/Users/kirutasu/Dave/CursoKiru/11_4.1.3.2_Pedir_X_numeros_array_media/obj/Debug/net6.0/11_4.1.3.2_Pedir_X_numeros_array_media.dll
+/Users/kirutasu/Dave/CursoKiru/11_4.1.3.2_Pedir_X_numeros_array_media/obj/Debug/net6.0/refint/11_4.1.3.2_Pedir_X_numeros_array_media.dll
+/Users/kirutasu/Dave/CursoKiru/11_4.1.3.2_Pedir_X_numeros_array_media/obj/Debug/net6.0/11_4.1.3.2_Pedir_X_numeros_array_media.pdb
+/Users/kirutasu/Dave/CursoKiru/11_4.1.3.2_Pedir_X_numeros_array_media/obj/Debug/net6.0/11_4.1.3.2_Pedir_X_numeros_array_media.genruntimeconfig.cache
+/Users/kirutasu/Dave/CursoKiru/11_4.1.3.2_Pedir_X_numeros_array_media/obj/Debug/net6.0/ref/11_4.1.3.2_Pedir_X_numeros_array_media.dll

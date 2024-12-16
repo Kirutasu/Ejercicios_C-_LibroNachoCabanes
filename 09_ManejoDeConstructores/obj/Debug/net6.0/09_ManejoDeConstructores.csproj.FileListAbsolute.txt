@@ -1,0 +1,15 @@
+/Users/kirutasu/Dave/CursoKiru/09_ManejoDeConstructores/obj/Debug/net6.0/09_ManejoDeConstructores.csproj.AssemblyReference.cache
+/Users/kirutasu/Dave/CursoKiru/09_ManejoDeConstructores/obj/Debug/net6.0/09_ManejoDeConstructores.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirutasu/Dave/CursoKiru/09_ManejoDeConstructores/obj/Debug/net6.0/09_ManejoDeConstructores.AssemblyInfoInputs.cache
+/Users/kirutasu/Dave/CursoKiru/09_ManejoDeConstructores/obj/Debug/net6.0/09_ManejoDeConstructores.AssemblyInfo.cs
+/Users/kirutasu/Dave/CursoKiru/09_ManejoDeConstructores/obj/Debug/net6.0/09_ManejoDeConstructores.csproj.CoreCompileInputs.cache
+/Users/kirutasu/Dave/CursoKiru/09_ManejoDeConstructores/bin/Debug/net6.0/09_ManejoDeConstructores
+/Users/kirutasu/Dave/CursoKiru/09_ManejoDeConstructores/bin/Debug/net6.0/09_ManejoDeConstructores.deps.json
+/Users/kirutasu/Dave/CursoKiru/09_ManejoDeConstructores/bin/Debug/net6.0/09_ManejoDeConstructores.runtimeconfig.json
+/Users/kirutasu/Dave/CursoKiru/09_ManejoDeConstructores/bin/Debug/net6.0/09_ManejoDeConstructores.dll
+/Users/kirutasu/Dave/CursoKiru/09_ManejoDeConstructores/bin/Debug/net6.0/09_ManejoDeConstructores.pdb
+/Users/kirutasu/Dave/CursoKiru/09_ManejoDeConstructores/obj/Debug/net6.0/09_ManejoDeConstructores.dll
+/Users/kirutasu/Dave/CursoKiru/09_ManejoDeConstructores/obj/Debug/net6.0/refint/09_ManejoDeConstructores.dll
+/Users/kirutasu/Dave/CursoKiru/09_ManejoDeConstructores/obj/Debug/net6.0/09_ManejoDeConstructores.pdb
+/Users/kirutasu/Dave/CursoKiru/09_ManejoDeConstructores/obj/Debug/net6.0/09_ManejoDeConstructores.genruntimeconfig.cache
+/Users/kirutasu/Dave/CursoKiru/09_ManejoDeConstructores/obj/Debug/net6.0/ref/09_ManejoDeConstructores.dll

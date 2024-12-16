@@ -1,0 +1,15 @@
+/Users/kirutasu/Dave/CursoKiru/Funciones matematicas/bin/Debug/net6.0/04_Funciones Matematicas
+/Users/kirutasu/Dave/CursoKiru/Funciones Matematicas/bin/Debug/net6.0/04_Funciones Matematicas.deps.json
+/Users/kirutasu/Dave/CursoKiru/Funciones Matematicas/bin/Debug/net6.0/04_Funciones Matematicas.runtimeconfig.json
+/Users/kirutasu/Dave/CursoKiru/Funciones matematicas/bin/Debug/net6.0/04_Funciones Matematicas.dll
+/Users/kirutasu/Dave/CursoKiru/Funciones matematicas/bin/Debug/net6.0/04_Funciones Matematicas.pdb
+/Users/kirutasu/Dave/CursoKiru/Funciones matematicas/obj/Debug/net6.0/04_Funciones Matematicas.csproj.AssemblyReference.cache
+/Users/kirutasu/Dave/CursoKiru/Funciones matematicas/obj/Debug/net6.0/04_Funciones Matematicas.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirutasu/Dave/CursoKiru/Funciones matematicas/obj/Debug/net6.0/04_Funciones Matematicas.AssemblyInfoInputs.cache
+/Users/kirutasu/Dave/CursoKiru/Funciones matematicas/obj/Debug/net6.0/04_Funciones Matematicas.AssemblyInfo.cs
+/Users/kirutasu/Dave/CursoKiru/Funciones matematicas/obj/Debug/net6.0/04_Funciones Matematicas.csproj.CoreCompileInputs.cache
+/Users/kirutasu/Dave/CursoKiru/Funciones matematicas/obj/Debug/net6.0/04_Funciones Matematicas.dll
+/Users/kirutasu/Dave/CursoKiru/Funciones matematicas/obj/Debug/net6.0/refint/04_Funciones Matematicas.dll
+/Users/kirutasu/Dave/CursoKiru/Funciones matematicas/obj/Debug/net6.0/04_Funciones Matematicas.pdb
+/Users/kirutasu/Dave/CursoKiru/Funciones Matematicas/obj/Debug/net6.0/04_Funciones Matematicas.genruntimeconfig.cache
+/Users/kirutasu/Dave/CursoKiru/Funciones Matematicas/obj/Debug/net6.0/ref/04_Funciones Matematicas.dll

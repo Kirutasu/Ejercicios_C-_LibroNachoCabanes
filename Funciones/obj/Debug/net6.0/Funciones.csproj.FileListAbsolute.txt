@@ -1,0 +1,15 @@
+/Users/kirutasu/Dave/CursoKiru/Funciones/bin/Debug/net6.0/Funciones
+/Users/kirutasu/Dave/CursoKiru/Funciones/bin/Debug/net6.0/Funciones.deps.json
+/Users/kirutasu/Dave/CursoKiru/Funciones/bin/Debug/net6.0/Funciones.runtimeconfig.json
+/Users/kirutasu/Dave/CursoKiru/Funciones/bin/Debug/net6.0/Funciones.dll
+/Users/kirutasu/Dave/CursoKiru/Funciones/bin/Debug/net6.0/Funciones.pdb
+/Users/kirutasu/Dave/CursoKiru/Funciones/obj/Debug/net6.0/Funciones.csproj.AssemblyReference.cache
+/Users/kirutasu/Dave/CursoKiru/Funciones/obj/Debug/net6.0/Funciones.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirutasu/Dave/CursoKiru/Funciones/obj/Debug/net6.0/Funciones.AssemblyInfoInputs.cache
+/Users/kirutasu/Dave/CursoKiru/Funciones/obj/Debug/net6.0/Funciones.AssemblyInfo.cs
+/Users/kirutasu/Dave/CursoKiru/Funciones/obj/Debug/net6.0/Funciones.csproj.CoreCompileInputs.cache
+/Users/kirutasu/Dave/CursoKiru/Funciones/obj/Debug/net6.0/Funciones.dll
+/Users/kirutasu/Dave/CursoKiru/Funciones/obj/Debug/net6.0/refint/Funciones.dll
+/Users/kirutasu/Dave/CursoKiru/Funciones/obj/Debug/net6.0/Funciones.pdb
+/Users/kirutasu/Dave/CursoKiru/Funciones/obj/Debug/net6.0/Funciones.genruntimeconfig.cache
+/Users/kirutasu/Dave/CursoKiru/Funciones/obj/Debug/net6.0/ref/Funciones.dll

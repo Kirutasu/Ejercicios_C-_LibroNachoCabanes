@@ -1,0 +1,15 @@
+/Users/kirutasu/Dave/CursoKiru/10_Manejo_De_Structs/bin/Debug/net6.0/10_Manejo_De_Structs
+/Users/kirutasu/Dave/CursoKiru/10_Manejo_De_Structs/bin/Debug/net6.0/10_Manejo_De_Structs.deps.json
+/Users/kirutasu/Dave/CursoKiru/10_Manejo_De_Structs/bin/Debug/net6.0/10_Manejo_De_Structs.runtimeconfig.json
+/Users/kirutasu/Dave/CursoKiru/10_Manejo_De_Structs/bin/Debug/net6.0/10_Manejo_De_Structs.dll
+/Users/kirutasu/Dave/CursoKiru/10_Manejo_De_Structs/bin/Debug/net6.0/10_Manejo_De_Structs.pdb
+/Users/kirutasu/Dave/CursoKiru/10_Manejo_De_Structs/obj/Debug/net6.0/10_Manejo_De_Structs.csproj.AssemblyReference.cache
+/Users/kirutasu/Dave/CursoKiru/10_Manejo_De_Structs/obj/Debug/net6.0/10_Manejo_De_Structs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirutasu/Dave/CursoKiru/10_Manejo_De_Structs/obj/Debug/net6.0/10_Manejo_De_Structs.AssemblyInfoInputs.cache
+/Users/kirutasu/Dave/CursoKiru/10_Manejo_De_Structs/obj/Debug/net6.0/10_Manejo_De_Structs.AssemblyInfo.cs
+/Users/kirutasu/Dave/CursoKiru/10_Manejo_De_Structs/obj/Debug/net6.0/10_Manejo_De_Structs.csproj.CoreCompileInputs.cache
+/Users/kirutasu/Dave/CursoKiru/10_Manejo_De_Structs/obj/Debug/net6.0/10_Manejo_De_Structs.dll
+/Users/kirutasu/Dave/CursoKiru/10_Manejo_De_Structs/obj/Debug/net6.0/refint/10_Manejo_De_Structs.dll
+/Users/kirutasu/Dave/CursoKiru/10_Manejo_De_Structs/obj/Debug/net6.0/10_Manejo_De_Structs.pdb
+/Users/kirutasu/Dave/CursoKiru/10_Manejo_De_Structs/obj/Debug/net6.0/10_Manejo_De_Structs.genruntimeconfig.cache
+/Users/kirutasu/Dave/CursoKiru/10_Manejo_De_Structs/obj/Debug/net6.0/ref/10_Manejo_De_Structs.dll

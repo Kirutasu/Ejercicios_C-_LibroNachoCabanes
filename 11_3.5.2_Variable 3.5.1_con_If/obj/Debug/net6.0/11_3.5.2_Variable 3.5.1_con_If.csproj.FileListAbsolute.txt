@@ -1,0 +1,15 @@
+/Users/kirutasu/Dave/CursoKiru/11_3.5.2_Variable 3.5.1_con_If/bin/Debug/net6.0/11_3.5.2_Variable 3.5.1_con_If
+/Users/kirutasu/Dave/CursoKiru/11_3.5.2_Variable 3.5.1_con_If/bin/Debug/net6.0/11_3.5.2_Variable 3.5.1_con_If.deps.json
+/Users/kirutasu/Dave/CursoKiru/11_3.5.2_Variable 3.5.1_con_If/bin/Debug/net6.0/11_3.5.2_Variable 3.5.1_con_If.runtimeconfig.json
+/Users/kirutasu/Dave/CursoKiru/11_3.5.2_Variable 3.5.1_con_If/bin/Debug/net6.0/11_3.5.2_Variable 3.5.1_con_If.dll
+/Users/kirutasu/Dave/CursoKiru/11_3.5.2_Variable 3.5.1_con_If/bin/Debug/net6.0/11_3.5.2_Variable 3.5.1_con_If.pdb
+/Users/kirutasu/Dave/CursoKiru/11_3.5.2_Variable 3.5.1_con_If/obj/Debug/net6.0/11_3.5.2_Variable 3.5.1_con_If.csproj.AssemblyReference.cache
+/Users/kirutasu/Dave/CursoKiru/11_3.5.2_Variable 3.5.1_con_If/obj/Debug/net6.0/11_3.5.2_Variable 3.5.1_con_If.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirutasu/Dave/CursoKiru/11_3.5.2_Variable 3.5.1_con_If/obj/Debug/net6.0/11_3.5.2_Variable 3.5.1_con_If.AssemblyInfoInputs.cache
+/Users/kirutasu/Dave/CursoKiru/11_3.5.2_Variable 3.5.1_con_If/obj/Debug/net6.0/11_3.5.2_Variable 3.5.1_con_If.AssemblyInfo.cs
+/Users/kirutasu/Dave/CursoKiru/11_3.5.2_Variable 3.5.1_con_If/obj/Debug/net6.0/11_3.5.2_Variable 3.5.1_con_If.csproj.CoreCompileInputs.cache
+/Users/kirutasu/Dave/CursoKiru/11_3.5.2_Variable 3.5.1_con_If/obj/Debug/net6.0/11_3.5.2_Variable 3.5.1_con_If.dll
+/Users/kirutasu/Dave/CursoKiru/11_3.5.2_Variable 3.5.1_con_If/obj/Debug/net6.0/refint/11_3.5.2_Variable 3.5.1_con_If.dll
+/Users/kirutasu/Dave/CursoKiru/11_3.5.2_Variable 3.5.1_con_If/obj/Debug/net6.0/11_3.5.2_Variable 3.5.1_con_If.pdb
+/Users/kirutasu/Dave/CursoKiru/11_3.5.2_Variable 3.5.1_con_If/obj/Debug/net6.0/11_3.5.2_Variable 3.5.1_con_If.genruntimeconfig.cache
+/Users/kirutasu/Dave/CursoKiru/11_3.5.2_Variable 3.5.1_con_If/obj/Debug/net6.0/ref/11_3.5.2_Variable 3.5.1_con_If.dll

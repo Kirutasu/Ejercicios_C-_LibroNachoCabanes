@@ -1,0 +1,15 @@
+/Users/kirutasu/Dave/CursoKiru/11_4.4.7.1_frase_muestra_palabras_en_inverso/bin/Debug/net6.0/11_4.4.7.1_frase_muestra_palabras_en_inverso
+/Users/kirutasu/Dave/CursoKiru/11_4.4.7.1_frase_muestra_palabras_en_inverso/bin/Debug/net6.0/11_4.4.7.1_frase_muestra_palabras_en_inverso.deps.json
+/Users/kirutasu/Dave/CursoKiru/11_4.4.7.1_frase_muestra_palabras_en_inverso/bin/Debug/net6.0/11_4.4.7.1_frase_muestra_palabras_en_inverso.runtimeconfig.json
+/Users/kirutasu/Dave/CursoKiru/11_4.4.7.1_frase_muestra_palabras_en_inverso/bin/Debug/net6.0/11_4.4.7.1_frase_muestra_palabras_en_inverso.dll
+/Users/kirutasu/Dave/CursoKiru/11_4.4.7.1_frase_muestra_palabras_en_inverso/bin/Debug/net6.0/11_4.4.7.1_frase_muestra_palabras_en_inverso.pdb
+/Users/kirutasu/Dave/CursoKiru/11_4.4.7.1_frase_muestra_palabras_en_inverso/obj/Debug/net6.0/11_4.4.7.1_frase_muestra_palabras_en_inverso.csproj.AssemblyReference.cache
+/Users/kirutasu/Dave/CursoKiru/11_4.4.7.1_frase_muestra_palabras_en_inverso/obj/Debug/net6.0/11_4.4.7.1_frase_muestra_palabras_en_inverso.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirutasu/Dave/CursoKiru/11_4.4.7.1_frase_muestra_palabras_en_inverso/obj/Debug/net6.0/11_4.4.7.1_frase_muestra_palabras_en_inverso.AssemblyInfoInputs.cache
+/Users/kirutasu/Dave/CursoKiru/11_4.4.7.1_frase_muestra_palabras_en_inverso/obj/Debug/net6.0/11_4.4.7.1_frase_muestra_palabras_en_inverso.AssemblyInfo.cs
+/Users/kirutasu/Dave/CursoKiru/11_4.4.7.1_frase_muestra_palabras_en_inverso/obj/Debug/net6.0/11_4.4.7.1_frase_muestra_palabras_en_inverso.csproj.CoreCompileInputs.cache
+/Users/kirutasu/Dave/CursoKiru/11_4.4.7.1_frase_muestra_palabras_en_inverso/obj/Debug/net6.0/11_4.4.7.1_frase_muestra_palabras_en_inverso.dll
+/Users/kirutasu/Dave/CursoKiru/11_4.4.7.1_frase_muestra_palabras_en_inverso/obj/Debug/net6.0/refint/11_4.4.7.1_frase_muestra_palabras_en_inverso.dll
+/Users/kirutasu/Dave/CursoKiru/11_4.4.7.1_frase_muestra_palabras_en_inverso/obj/Debug/net6.0/11_4.4.7.1_frase_muestra_palabras_en_inverso.pdb
+/Users/kirutasu/Dave/CursoKiru/11_4.4.7.1_frase_muestra_palabras_en_inverso/obj/Debug/net6.0/11_4.4.7.1_frase_muestra_palabras_en_inverso.genruntimeconfig.cache
+/Users/kirutasu/Dave/CursoKiru/11_4.4.7.1_frase_muestra_palabras_en_inverso/obj/Debug/net6.0/ref/11_4.4.7.1_frase_muestra_palabras_en_inverso.dll

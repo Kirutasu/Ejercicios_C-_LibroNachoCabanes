@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "aFO2pAn1XlrTlEE2NN0KbmJcUwYGz2h9dGUWcIQBaHG5feVfZ1Jw7ha9TByTwczahEl+/N5766Xf4uoFT4wNlQ==",
+  "success": true,
+  "projectFilePath": "/Users/kirutasu/Dave/Curso Kiru/11_4.2.1_Bloques_enteros_array2D_mostrar_mayor_cada/11_4.2.1_Bloques_enteros_array2D_mostrar_mayor_cada.csproj",
+  "expectedPackageFiles": [
+    "/Users/kirutasu/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/kirutasu/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.31/microsoft.netcore.app.host.osx-arm64.6.0.31.nupkg.sha512",
+    "/Users/kirutasu/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+/Users/kirutasu/Dave/CursoKiru/11_ 4.4.3.5_Multiplicar_enteros_30_cifras_input_cadena/bin/Debug/net6.0/11_4.4.3.5_Multiplicar_enteros_30_cifras_input_cadena
+/Users/kirutasu/Dave/CursoKiru/11_ 4.4.3.5_Multiplicar_enteros_30_cifras_input_cadena/bin/Debug/net6.0/11_4.4.3.5_Multiplicar_enteros_30_cifras_input_cadena.deps.json
+/Users/kirutasu/Dave/CursoKiru/11_ 4.4.3.5_Multiplicar_enteros_30_cifras_input_cadena/bin/Debug/net6.0/11_4.4.3.5_Multiplicar_enteros_30_cifras_input_cadena.runtimeconfig.json
+/Users/kirutasu/Dave/CursoKiru/11_ 4.4.3.5_Multiplicar_enteros_30_cifras_input_cadena/bin/Debug/net6.0/11_4.4.3.5_Multiplicar_enteros_30_cifras_input_cadena.dll
+/Users/kirutasu/Dave/CursoKiru/11_ 4.4.3.5_Multiplicar_enteros_30_cifras_input_cadena/bin/Debug/net6.0/11_4.4.3.5_Multiplicar_enteros_30_cifras_input_cadena.pdb
+/Users/kirutasu/Dave/CursoKiru/11_ 4.4.3.5_Multiplicar_enteros_30_cifras_input_cadena/obj/Debug/net6.0/11_4.4.3.5_Multiplicar_enteros_30_cifras_input_cadena.csproj.AssemblyReference.cache
+/Users/kirutasu/Dave/CursoKiru/11_ 4.4.3.5_Multiplicar_enteros_30_cifras_input_cadena/obj/Debug/net6.0/11_4.4.3.5_Multiplicar_enteros_30_cifras_input_cadena.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirutasu/Dave/CursoKiru/11_ 4.4.3.5_Multiplicar_enteros_30_cifras_input_cadena/obj/Debug/net6.0/11_4.4.3.5_Multiplicar_enteros_30_cifras_input_cadena.AssemblyInfoInputs.cache
+/Users/kirutasu/Dave/CursoKiru/11_ 4.4.3.5_Multiplicar_enteros_30_cifras_input_cadena/obj/Debug/net6.0/11_4.4.3.5_Multiplicar_enteros_30_cifras_input_cadena.AssemblyInfo.cs
+/Users/kirutasu/Dave/CursoKiru/11_ 4.4.3.5_Multiplicar_enteros_30_cifras_input_cadena/obj/Debug/net6.0/11_4.4.3.5_Multiplicar_enteros_30_cifras_input_cadena.csproj.CoreCompileInputs.cache
+/Users/kirutasu/Dave/CursoKiru/11_ 4.4.3.5_Multiplicar_enteros_30_cifras_input_cadena/obj/Debug/net6.0/11_4.4.3.5_Multiplicar_enteros_30_cifras_input_cadena.dll
+/Users/kirutasu/Dave/CursoKiru/11_ 4.4.3.5_Multiplicar_enteros_30_cifras_input_cadena/obj/Debug/net6.0/refint/11_4.4.3.5_Multiplicar_enteros_30_cifras_input_cadena.dll
+/Users/kirutasu/Dave/CursoKiru/11_ 4.4.3.5_Multiplicar_enteros_30_cifras_input_cadena/obj/Debug/net6.0/11_4.4.3.5_Multiplicar_enteros_30_cifras_input_cadena.pdb
+/Users/kirutasu/Dave/CursoKiru/11_ 4.4.3.5_Multiplicar_enteros_30_cifras_input_cadena/obj/Debug/net6.0/11_4.4.3.5_Multiplicar_enteros_30_cifras_input_cadena.genruntimeconfig.cache
+/Users/kirutasu/Dave/CursoKiru/11_ 4.4.3.5_Multiplicar_enteros_30_cifras_input_cadena/obj/Debug/net6.0/ref/11_4.4.3.5_Multiplicar_enteros_30_cifras_input_cadena.dll

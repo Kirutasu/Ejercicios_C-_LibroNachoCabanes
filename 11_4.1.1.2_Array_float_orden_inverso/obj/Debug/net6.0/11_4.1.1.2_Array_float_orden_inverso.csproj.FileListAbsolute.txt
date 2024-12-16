@@ -1,0 +1,15 @@
+/Users/kirutasu/Dave/CursoKiru/11_4.1.1.2_Array_float_orden_inverso/bin/Debug/net6.0/11_4.1.1.2_Array_float_orden_inverso
+/Users/kirutasu/Dave/CursoKiru/11_4.1.1.2_Array_float_orden_inverso/bin/Debug/net6.0/11_4.1.1.2_Array_float_orden_inverso.deps.json
+/Users/kirutasu/Dave/CursoKiru/11_4.1.1.2_Array_float_orden_inverso/bin/Debug/net6.0/11_4.1.1.2_Array_float_orden_inverso.runtimeconfig.json
+/Users/kirutasu/Dave/CursoKiru/11_4.1.1.2_Array_float_orden_inverso/bin/Debug/net6.0/11_4.1.1.2_Array_float_orden_inverso.dll
+/Users/kirutasu/Dave/CursoKiru/11_4.1.1.2_Array_float_orden_inverso/bin/Debug/net6.0/11_4.1.1.2_Array_float_orden_inverso.pdb
+/Users/kirutasu/Dave/CursoKiru/11_4.1.1.2_Array_float_orden_inverso/obj/Debug/net6.0/11_4.1.1.2_Array_float_orden_inverso.csproj.AssemblyReference.cache
+/Users/kirutasu/Dave/CursoKiru/11_4.1.1.2_Array_float_orden_inverso/obj/Debug/net6.0/11_4.1.1.2_Array_float_orden_inverso.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirutasu/Dave/CursoKiru/11_4.1.1.2_Array_float_orden_inverso/obj/Debug/net6.0/11_4.1.1.2_Array_float_orden_inverso.AssemblyInfoInputs.cache
+/Users/kirutasu/Dave/CursoKiru/11_4.1.1.2_Array_float_orden_inverso/obj/Debug/net6.0/11_4.1.1.2_Array_float_orden_inverso.AssemblyInfo.cs
+/Users/kirutasu/Dave/CursoKiru/11_4.1.1.2_Array_float_orden_inverso/obj/Debug/net6.0/11_4.1.1.2_Array_float_orden_inverso.csproj.CoreCompileInputs.cache
+/Users/kirutasu/Dave/CursoKiru/11_4.1.1.2_Array_float_orden_inverso/obj/Debug/net6.0/11_4.1.1.2_Array_float_orden_inverso.dll
+/Users/kirutasu/Dave/CursoKiru/11_4.1.1.2_Array_float_orden_inverso/obj/Debug/net6.0/refint/11_4.1.1.2_Array_float_orden_inverso.dll
+/Users/kirutasu/Dave/CursoKiru/11_4.1.1.2_Array_float_orden_inverso/obj/Debug/net6.0/11_4.1.1.2_Array_float_orden_inverso.pdb
+/Users/kirutasu/Dave/CursoKiru/11_4.1.1.2_Array_float_orden_inverso/obj/Debug/net6.0/11_4.1.1.2_Array_float_orden_inverso.genruntimeconfig.cache
+/Users/kirutasu/Dave/CursoKiru/11_4.1.1.2_Array_float_orden_inverso/obj/Debug/net6.0/ref/11_4.1.1.2_Array_float_orden_inverso.dll

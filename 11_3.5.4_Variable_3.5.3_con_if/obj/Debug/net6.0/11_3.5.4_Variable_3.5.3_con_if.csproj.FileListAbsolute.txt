@@ -1,0 +1,15 @@
+/Users/kirutasu/Dave/CursoKiru/11_3.5.4_Variable_3.5.3_con_if/bin/Debug/net6.0/11_3.5.4_Variable_3.5.3_con_if
+/Users/kirutasu/Dave/CursoKiru/11_3.5.4_Variable_3.5.3_con_if/bin/Debug/net6.0/11_3.5.4_Variable_3.5.3_con_if.deps.json
+/Users/kirutasu/Dave/CursoKiru/11_3.5.4_Variable_3.5.3_con_if/bin/Debug/net6.0/11_3.5.4_Variable_3.5.3_con_if.runtimeconfig.json
+/Users/kirutasu/Dave/CursoKiru/11_3.5.4_Variable_3.5.3_con_if/bin/Debug/net6.0/11_3.5.4_Variable_3.5.3_con_if.dll
+/Users/kirutasu/Dave/CursoKiru/11_3.5.4_Variable_3.5.3_con_if/bin/Debug/net6.0/11_3.5.4_Variable_3.5.3_con_if.pdb
+/Users/kirutasu/Dave/CursoKiru/11_3.5.4_Variable_3.5.3_con_if/obj/Debug/net6.0/11_3.5.4_Variable_3.5.3_con_if.csproj.AssemblyReference.cache
+/Users/kirutasu/Dave/CursoKiru/11_3.5.4_Variable_3.5.3_con_if/obj/Debug/net6.0/11_3.5.4_Variable_3.5.3_con_if.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirutasu/Dave/CursoKiru/11_3.5.4_Variable_3.5.3_con_if/obj/Debug/net6.0/11_3.5.4_Variable_3.5.3_con_if.AssemblyInfoInputs.cache
+/Users/kirutasu/Dave/CursoKiru/11_3.5.4_Variable_3.5.3_con_if/obj/Debug/net6.0/11_3.5.4_Variable_3.5.3_con_if.AssemblyInfo.cs
+/Users/kirutasu/Dave/CursoKiru/11_3.5.4_Variable_3.5.3_con_if/obj/Debug/net6.0/11_3.5.4_Variable_3.5.3_con_if.csproj.CoreCompileInputs.cache
+/Users/kirutasu/Dave/CursoKiru/11_3.5.4_Variable_3.5.3_con_if/obj/Debug/net6.0/11_3.5.4_Variable_3.5.3_con_if.dll
+/Users/kirutasu/Dave/CursoKiru/11_3.5.4_Variable_3.5.3_con_if/obj/Debug/net6.0/refint/11_3.5.4_Variable_3.5.3_con_if.dll
+/Users/kirutasu/Dave/CursoKiru/11_3.5.4_Variable_3.5.3_con_if/obj/Debug/net6.0/11_3.5.4_Variable_3.5.3_con_if.pdb
+/Users/kirutasu/Dave/CursoKiru/11_3.5.4_Variable_3.5.3_con_if/obj/Debug/net6.0/11_3.5.4_Variable_3.5.3_con_if.genruntimeconfig.cache
+/Users/kirutasu/Dave/CursoKiru/11_3.5.4_Variable_3.5.3_con_if/obj/Debug/net6.0/ref/11_3.5.4_Variable_3.5.3_con_if.dll

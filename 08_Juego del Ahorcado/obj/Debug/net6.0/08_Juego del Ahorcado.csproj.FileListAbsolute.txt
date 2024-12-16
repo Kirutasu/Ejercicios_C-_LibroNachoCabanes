@@ -1,0 +1,15 @@
+/Users/kirutasu/Dave/CursoKiru/08_Juego del Ahorcado/bin/Debug/net6.0/08_Juego del Ahorcado
+/Users/kirutasu/Dave/CursoKiru/08_Juego del Ahorcado/bin/Debug/net6.0/08_Juego del Ahorcado.deps.json
+/Users/kirutasu/Dave/CursoKiru/08_Juego del Ahorcado/bin/Debug/net6.0/08_Juego del Ahorcado.runtimeconfig.json
+/Users/kirutasu/Dave/CursoKiru/08_Juego del Ahorcado/bin/Debug/net6.0/08_Juego del Ahorcado.dll
+/Users/kirutasu/Dave/CursoKiru/08_Juego del Ahorcado/bin/Debug/net6.0/08_Juego del Ahorcado.pdb
+/Users/kirutasu/Dave/CursoKiru/08_Juego del Ahorcado/obj/Debug/net6.0/08_Juego del Ahorcado.csproj.AssemblyReference.cache
+/Users/kirutasu/Dave/CursoKiru/08_Juego del Ahorcado/obj/Debug/net6.0/08_Juego del Ahorcado.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirutasu/Dave/CursoKiru/08_Juego del Ahorcado/obj/Debug/net6.0/08_Juego del Ahorcado.AssemblyInfoInputs.cache
+/Users/kirutasu/Dave/CursoKiru/08_Juego del Ahorcado/obj/Debug/net6.0/08_Juego del Ahorcado.AssemblyInfo.cs
+/Users/kirutasu/Dave/CursoKiru/08_Juego del Ahorcado/obj/Debug/net6.0/08_Juego del Ahorcado.csproj.CoreCompileInputs.cache
+/Users/kirutasu/Dave/CursoKiru/08_Juego del Ahorcado/obj/Debug/net6.0/08_Juego del Ahorcado.dll
+/Users/kirutasu/Dave/CursoKiru/08_Juego del Ahorcado/obj/Debug/net6.0/refint/08_Juego del Ahorcado.dll
+/Users/kirutasu/Dave/CursoKiru/08_Juego del Ahorcado/obj/Debug/net6.0/08_Juego del Ahorcado.pdb
+/Users/kirutasu/Dave/CursoKiru/08_Juego del Ahorcado/obj/Debug/net6.0/08_Juego del Ahorcado.genruntimeconfig.cache
+/Users/kirutasu/Dave/CursoKiru/08_Juego del Ahorcado/obj/Debug/net6.0/ref/08_Juego del Ahorcado.dll

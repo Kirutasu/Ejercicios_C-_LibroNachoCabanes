@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Db3XBisMGlDHninMZKHUuI7ShHncqy7Et/U5ax6b0jn7w85N2Hx6KtkT402CRDqVdmuFxmlGL2nvL40jo7pmaA==",
+  "success": true,
+  "projectFilePath": "/Users/kirutasu/Dave/Curso Kiru/11_3.5.4_Variable_3.5.3_con_if/11_3.5.4_Variable_3.5.3_con_if.csproj",
+  "expectedPackageFiles": [
+    "/Users/kirutasu/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/kirutasu/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.31/microsoft.netcore.app.host.osx-arm64.6.0.31.nupkg.sha512",
+    "/Users/kirutasu/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}

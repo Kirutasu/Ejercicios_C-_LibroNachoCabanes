@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "11_4.1.1.2_Array_float_orden_inverso/1.0.0": {
+        "runtime": {
+          "11_4.1.1.2_Array_float_orden_inverso.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "11_4.1.1.2_Array_float_orden_inverso/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

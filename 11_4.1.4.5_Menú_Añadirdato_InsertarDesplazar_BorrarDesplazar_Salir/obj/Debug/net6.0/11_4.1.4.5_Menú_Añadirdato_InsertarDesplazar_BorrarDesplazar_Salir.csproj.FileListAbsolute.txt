@@ -1,0 +1,15 @@
+/Users/kirutasu/Dave/CursoKiru/11_4.1.4.5_Menú_Añadirdato_InsertarDesplazar_BorrarDesplazar_Salir/bin/Debug/net6.0/11_4.1.4.5_Menú_Añadirdato_InsertarDesplazar_BorrarDesplazar_Salir
+/Users/kirutasu/Dave/CursoKiru/11_4.1.4.5_Menú_Añadirdato_InsertarDesplazar_BorrarDesplazar_Salir/bin/Debug/net6.0/11_4.1.4.5_Menú_Añadirdato_InsertarDesplazar_BorrarDesplazar_Salir.deps.json
+/Users/kirutasu/Dave/CursoKiru/11_4.1.4.5_Menú_Añadirdato_InsertarDesplazar_BorrarDesplazar_Salir/bin/Debug/net6.0/11_4.1.4.5_Menú_Añadirdato_InsertarDesplazar_BorrarDesplazar_Salir.runtimeconfig.json
+/Users/kirutasu/Dave/CursoKiru/11_4.1.4.5_Menú_Añadirdato_InsertarDesplazar_BorrarDesplazar_Salir/bin/Debug/net6.0/11_4.1.4.5_Menú_Añadirdato_InsertarDesplazar_BorrarDesplazar_Salir.dll
+/Users/kirutasu/Dave/CursoKiru/11_4.1.4.5_Menú_Añadirdato_InsertarDesplazar_BorrarDesplazar_Salir/bin/Debug/net6.0/11_4.1.4.5_Menú_Añadirdato_InsertarDesplazar_BorrarDesplazar_Salir.pdb
+/Users/kirutasu/Dave/CursoKiru/11_4.1.4.5_Menú_Añadirdato_InsertarDesplazar_BorrarDesplazar_Salir/obj/Debug/net6.0/11_4.1.4.5_Menú_Añadirdato_InsertarDesplazar_BorrarDesplazar_Salir.csproj.AssemblyReference.cache
+/Users/kirutasu/Dave/CursoKiru/11_4.1.4.5_Menú_Añadirdato_InsertarDesplazar_BorrarDesplazar_Salir/obj/Debug/net6.0/11_4.1.4.5_Menú_Añadirdato_InsertarDesplazar_BorrarDesplazar_Salir.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirutasu/Dave/CursoKiru/11_4.1.4.5_Menú_Añadirdato_InsertarDesplazar_BorrarDesplazar_Salir/obj/Debug/net6.0/11_4.1.4.5_Menú_Añadirdato_InsertarDesplazar_BorrarDesplazar_Salir.AssemblyInfoInputs.cache
+/Users/kirutasu/Dave/CursoKiru/11_4.1.4.5_Menú_Añadirdato_InsertarDesplazar_BorrarDesplazar_Salir/obj/Debug/net6.0/11_4.1.4.5_Menú_Añadirdato_InsertarDesplazar_BorrarDesplazar_Salir.AssemblyInfo.cs
+/Users/kirutasu/Dave/CursoKiru/11_4.1.4.5_Menú_Añadirdato_InsertarDesplazar_BorrarDesplazar_Salir/obj/Debug/net6.0/11_4.1.4.5_Menú_Añadirdato_InsertarDesplazar_BorrarDesplazar_Salir.csproj.CoreCompileInputs.cache
+/Users/kirutasu/Dave/CursoKiru/11_4.1.4.5_Menú_Añadirdato_InsertarDesplazar_BorrarDesplazar_Salir/obj/Debug/net6.0/11_4.1.4.5_Menú_Añadirdato_InsertarDesplazar_BorrarDesplazar_Salir.dll
+/Users/kirutasu/Dave/CursoKiru/11_4.1.4.5_Menú_Añadirdato_InsertarDesplazar_BorrarDesplazar_Salir/obj/Debug/net6.0/refint/11_4.1.4.5_Menú_Añadirdato_InsertarDesplazar_BorrarDesplazar_Salir.dll
+/Users/kirutasu/Dave/CursoKiru/11_4.1.4.5_Menú_Añadirdato_InsertarDesplazar_BorrarDesplazar_Salir/obj/Debug/net6.0/11_4.1.4.5_Menú_Añadirdato_InsertarDesplazar_BorrarDesplazar_Salir.pdb
+/Users/kirutasu/Dave/CursoKiru/11_4.1.4.5_Menú_Añadirdato_InsertarDesplazar_BorrarDesplazar_Salir/obj/Debug/net6.0/11_4.1.4.5_Menú_Añadirdato_InsertarDesplazar_BorrarDesplazar_Salir.genruntimeconfig.cache
+/Users/kirutasu/Dave/CursoKiru/11_4.1.4.5_Menú_Añadirdato_InsertarDesplazar_BorrarDesplazar_Salir/obj/Debug/net6.0/ref/11_4.1.4.5_Menú_Añadirdato_InsertarDesplazar_BorrarDesplazar_Salir.dll

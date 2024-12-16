@@ -1,0 +1,15 @@
+/Users/kirutasu/Dave/CursoKiru/Intro/bin/Debug/net6.0/00_Intro
+/Users/kirutasu/Dave/CursoKiru/Intro/bin/Debug/net6.0/00_Intro.deps.json
+/Users/kirutasu/Dave/CursoKiru/Intro/bin/Debug/net6.0/00_Intro.runtimeconfig.json
+/Users/kirutasu/Dave/CursoKiru/Intro/bin/Debug/net6.0/00_Intro.dll
+/Users/kirutasu/Dave/CursoKiru/Intro/bin/Debug/net6.0/00_Intro.pdb
+/Users/kirutasu/Dave/CursoKiru/Intro/obj/Debug/net6.0/00_Intro.csproj.AssemblyReference.cache
+/Users/kirutasu/Dave/CursoKiru/Intro/obj/Debug/net6.0/00_Intro.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirutasu/Dave/CursoKiru/Intro/obj/Debug/net6.0/00_Intro.AssemblyInfoInputs.cache
+/Users/kirutasu/Dave/CursoKiru/Intro/obj/Debug/net6.0/00_Intro.AssemblyInfo.cs
+/Users/kirutasu/Dave/CursoKiru/Intro/obj/Debug/net6.0/00_Intro.csproj.CoreCompileInputs.cache
+/Users/kirutasu/Dave/CursoKiru/Intro/obj/Debug/net6.0/00_Intro.dll
+/Users/kirutasu/Dave/CursoKiru/Intro/obj/Debug/net6.0/refint/00_Intro.dll
+/Users/kirutasu/Dave/CursoKiru/Intro/obj/Debug/net6.0/00_Intro.pdb
+/Users/kirutasu/Dave/CursoKiru/Intro/obj/Debug/net6.0/00_Intro.genruntimeconfig.cache
+/Users/kirutasu/Dave/CursoKiru/Intro/obj/Debug/net6.0/ref/00_Intro.dll

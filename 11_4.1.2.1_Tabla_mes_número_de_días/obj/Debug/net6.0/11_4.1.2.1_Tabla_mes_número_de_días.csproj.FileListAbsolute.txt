@@ -1,0 +1,15 @@
+/Users/kirutasu/Dave/CursoKiru/11_4.1.2.1_Tabla_mes_número_de_días/bin/Debug/net6.0/11_4.1.2.1_Tabla_mes_número_de_días
+/Users/kirutasu/Dave/CursoKiru/11_4.1.2.1_Tabla_mes_número_de_días/bin/Debug/net6.0/11_4.1.2.1_Tabla_mes_número_de_días.deps.json
+/Users/kirutasu/Dave/CursoKiru/11_4.1.2.1_Tabla_mes_número_de_días/bin/Debug/net6.0/11_4.1.2.1_Tabla_mes_número_de_días.runtimeconfig.json
+/Users/kirutasu/Dave/CursoKiru/11_4.1.2.1_Tabla_mes_número_de_días/bin/Debug/net6.0/11_4.1.2.1_Tabla_mes_número_de_días.dll
+/Users/kirutasu/Dave/CursoKiru/11_4.1.2.1_Tabla_mes_número_de_días/bin/Debug/net6.0/11_4.1.2.1_Tabla_mes_número_de_días.pdb
+/Users/kirutasu/Dave/CursoKiru/11_4.1.2.1_Tabla_mes_número_de_días/obj/Debug/net6.0/11_4.1.2.1_Tabla_mes_número_de_días.csproj.AssemblyReference.cache
+/Users/kirutasu/Dave/CursoKiru/11_4.1.2.1_Tabla_mes_número_de_días/obj/Debug/net6.0/11_4.1.2.1_Tabla_mes_número_de_días.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirutasu/Dave/CursoKiru/11_4.1.2.1_Tabla_mes_número_de_días/obj/Debug/net6.0/11_4.1.2.1_Tabla_mes_número_de_días.AssemblyInfoInputs.cache
+/Users/kirutasu/Dave/CursoKiru/11_4.1.2.1_Tabla_mes_número_de_días/obj/Debug/net6.0/11_4.1.2.1_Tabla_mes_número_de_días.AssemblyInfo.cs
+/Users/kirutasu/Dave/CursoKiru/11_4.1.2.1_Tabla_mes_número_de_días/obj/Debug/net6.0/11_4.1.2.1_Tabla_mes_número_de_días.csproj.CoreCompileInputs.cache
+/Users/kirutasu/Dave/CursoKiru/11_4.1.2.1_Tabla_mes_número_de_días/obj/Debug/net6.0/11_4.1.2.1_Tabla_mes_número_de_días.dll
+/Users/kirutasu/Dave/CursoKiru/11_4.1.2.1_Tabla_mes_número_de_días/obj/Debug/net6.0/refint/11_4.1.2.1_Tabla_mes_número_de_días.dll
+/Users/kirutasu/Dave/CursoKiru/11_4.1.2.1_Tabla_mes_número_de_días/obj/Debug/net6.0/11_4.1.2.1_Tabla_mes_número_de_días.pdb
+/Users/kirutasu/Dave/CursoKiru/11_4.1.2.1_Tabla_mes_número_de_días/obj/Debug/net6.0/11_4.1.2.1_Tabla_mes_número_de_días.genruntimeconfig.cache
+/Users/kirutasu/Dave/CursoKiru/11_4.1.2.1_Tabla_mes_número_de_días/obj/Debug/net6.0/ref/11_4.1.2.1_Tabla_mes_número_de_días.dll
